@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Es 20:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Es_20_jar</output-path>
+    <root id="archive" name="Es 20.jar">
+      <element id="module-output" name="Es 20" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../.jars/flatlaf-0.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../.jars/gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

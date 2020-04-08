@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Turin_Garden:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70df81c7-0e37-408f-b963-b8a898dddab7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZS8C4OGKCY5pfyluVHV3gpHe79" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/synthetica.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program.Main" />
+      <module name="Turin_Garden" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utilities.JSON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Turin_Garden.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Turin_Garden_jar/Turin_Garden.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.Turin_Garden.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70df81c7-0e37-408f-b963-b8a898dddab7" name="Default Changelist" comment="" />
+      <created>1584821003454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584821003454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="188" key="#Inspections" timestamp="1585197183077">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1512" y="188" key="#Inspections/0.0.2560.1050@0.0.2560.1050" timestamp="1585197183077" />
+    <state x="1153" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1585301419643">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1153" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1050@0.0.2560.1050" timestamp="1585301419643" />
+    <state x="386" y="289" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585821041756">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="386" y="289" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1585821041756" />
+    <state x="1134" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584972010216">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1134" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1584972010216" />
+    <state x="1650" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585170836557">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1650" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1585170836557" />
+    <state x="309" y="370" key="FileChooserDialogImpl" timestamp="1585964703490">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="309" y="370" key="FileChooserDialogImpl/0.0.2560.1050@0.0.2560.1050" timestamp="1585964703490" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1585964950138">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1050@0.0.2560.1050" timestamp="1585964950138" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1585964950138">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.center/0.0.2560.1050@0.0.2560.1050" timestamp="1585964950138" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1585964950138">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.left/0.0.2560.1050@0.0.2560.1050" timestamp="1585964950138" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1585964950138">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1585964950138" />
+    <state width="2517" height="350" key="GridCell.Tab.1.bottom" timestamp="1585269017270">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="350" key="GridCell.Tab.1.bottom/0.0.2560.1050@0.0.2560.1050" timestamp="1585269017270" />
+    <state width="2517" height="350" key="GridCell.Tab.1.center" timestamp="1585269017270">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="350" key="GridCell.Tab.1.center/0.0.2560.1050@0.0.2560.1050" timestamp="1585269017270" />
+    <state width="2517" height="350" key="GridCell.Tab.1.left" timestamp="1585269017269">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="350" key="GridCell.Tab.1.left/0.0.2560.1050@0.0.2560.1050" timestamp="1585269017269" />
+    <state width="2517" height="350" key="GridCell.Tab.1.right" timestamp="1585269017270">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="350" key="GridCell.Tab.1.right/0.0.2560.1050@0.0.2560.1050" timestamp="1585269017270" />
+    <state x="136" y="80" key="SettingsEditor" timestamp="1585964705011">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="136" y="80" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1585964705011" />
+    <state x="1616" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1585299195102">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1616" y="350" key="com.intellij.ide.util.TipDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1585299195102" />
+    <state x="140" y="109" width="1094" height="850" key="dock-window-1" timestamp="1584898617558">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="140" y="109" width="1094" height="850" key="dock-window-1/0.0.2560.1050@0.0.2560.1050" timestamp="1584898617558" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584972744888">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1584972744888" />
+    <state x="662" y="146" key="new project wizard" timestamp="1585439483268">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="662" y="146" key="new project wizard/0.0.2560.1050@0.0.2560.1050" timestamp="1585439483268" />
+    <state x="428" y="251" key="run.anything.popup" timestamp="1584964772064">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="428" y="251" key="run.anything.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1584964772064" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1585234927608">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1585234927608" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Turin_Garden$Main.ic" NAME="Main Coverage Results" MODIFIED="1585672968548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Utilities.JSON.*</FILTER>
+    </SUITE>
+  </component>
+</project>

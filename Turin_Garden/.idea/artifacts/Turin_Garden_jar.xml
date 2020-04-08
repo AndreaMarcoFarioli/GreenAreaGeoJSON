@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Turin_Garden:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Turin_Garden_jar</output-path>
+    <root id="archive" name="Turin_Garden.jar">
+      <element id="module-output" name="Turin_Garden" />
+      <element id="extracted-dir" path="F:/download/gson-2.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
