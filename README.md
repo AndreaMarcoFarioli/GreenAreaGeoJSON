@@ -64,7 +64,6 @@ Esempio di geojson vuoto
       {
           "type": "Feature",
           "properties": {
-              //Green_Area
           },
           "geometry":{
               "type": "Polygon",
