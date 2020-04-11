@@ -493,7 +493,7 @@ class Controller{
         view.setButtonText(model.getName());
     }
     
-    private void button1Method2(ActionListener listener){
+    private void button1Method2(ActionEvent listener){
         button1Method();
     }
 }
