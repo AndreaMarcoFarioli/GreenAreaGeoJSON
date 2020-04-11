@@ -535,9 +535,6 @@ class POJO implements TableObject{
 }
 ```
 
-Ancora non ho trovato un metodo elegante e generale per definire l'header senza averlo su tutte le istanze di TableObject.
-
-
 
 ### 5.2 HideList
 
