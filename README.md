@@ -506,9 +506,20 @@ class Controller{
 Per avere una interfaccia univoca nella scrittura degli oggetti su tabella ho creato una @FunctionalInterface chiamata TableObject. Questa interfaccia semplicemente deve essere implementata in un oggetto che possiede dei valori da interpretare in qualche tabella, utile per modificare l'output a piacimento.
 
 ```java
-interface TableObject{
+
+interface TableObject {
     Object[] getContents();
+    static Object[] getHeader(Class<?> c){
+        Object[] objects = null;
+        try {
+            objects = (Object[]) c.getMethod("getHeader").invoke(null) ;
+        } catch (NoSuchMethodException | InvocationTargetException | IllegalAccessException e) {
+            e.printStackTrace();
+        }
+        return objects;
+    }
 }
+
 
 class POJO implements TableObject{
     private int a, b, c;
@@ -516,6 +527,10 @@ class POJO implements TableObject{
     @Override
     public Object[] getContents(){
         return new Object[]{a,b,c};
+    }
+    
+    public static Object[] getHeader(){
+        return new Object[] {"a", "b", "c"};
     }
 }
 ```
